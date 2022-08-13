@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Realgreat",
 	"description": "Practice of freeCodeCamp",
-	"keywords": [ "freeCodeCamp", "nodejs", "learning" ],
+	"keywords": [ "freecodecamp", "nodejs", "learning" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
