@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Realgreat",
+	"version": "1.0.0",
 	"description": "Practice of freeCodeCamp",
 	"keywords": [ "freecodecamp", "nodejs", "learning" ],
 	"license": "MIT",
